@@ -1,0 +1,16 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Jamie Phillips", email = "cphill11@gmail.com"},
+]
+dependencies = [
+    "kopf>=1.36.2",
+    "asyncio>=3.4.3",
+    "kubernetes>=28.1.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "APACHE"}
+
